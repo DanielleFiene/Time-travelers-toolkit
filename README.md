@@ -10,6 +10,7 @@ This project is a fun and interactive Python script that simulates the cost calc
 - [Setup and Installation](#setup-and-installation)
 - [How It Works](#how-it-works)
 - [Usage](#usage)
+- Testing
 - [Example Output](#example-output)
 - [Learning Outcomes](#learning-outcomes)
 - [Custom Module](#custom-module)
@@ -58,6 +59,13 @@ The Time Travel Cost Calculator simulates a scenario where you can calculate the
    python time_travel_calculator.py
    ```
 
+5. ##Run the tests:
+
+To ensure everything is working correctly, run the tests using:
+
+```bash
+python -m unittest test.py
+```
 ## How It Works
 
 1. **Import Required Modules**: The script begins by importing necessary modules, including a custom module for generating time travel messages.
