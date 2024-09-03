@@ -59,7 +59,7 @@ The Time Travel Cost Calculator simulates a scenario where you can calculate the
    python time_travel_calculator.py
    ```
 
-5. ## Run the tests
+5. ##testing
 
 To ensure everything is working correctly, run the tests using:
 
