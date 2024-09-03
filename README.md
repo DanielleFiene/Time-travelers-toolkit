@@ -10,7 +10,7 @@ This project is a fun and interactive Python script that simulates the cost calc
 - [Setup and Installation](#setup-and-installation)
 - [How It Works](#how-it-works)
 - [Usage](#usage)
-- Testing
+- [Testing](#testing) 
 - [Example Output](#example-output)
 - [Learning Outcomes](#learning-outcomes)
 - [Custom Module](#custom-module)
